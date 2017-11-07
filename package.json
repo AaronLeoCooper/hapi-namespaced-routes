@@ -1,6 +1,6 @@
 {
   "name": "hapi-namespaced-routes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Hapi plugin to load routes with a namespace",
   "main": "lib/index.js",
   "scripts": {
