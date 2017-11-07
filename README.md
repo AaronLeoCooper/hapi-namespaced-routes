@@ -1,0 +1,3 @@
+# Hapi Namepsaced Routes
+
+

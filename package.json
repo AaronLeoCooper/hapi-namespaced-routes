@@ -1,0 +1,20 @@
+{
+  "name": "hapi-namespaced-routes",
+  "version": "1.0.0",
+  "description": "A Hapi plugin to load routes with a namespace",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "nyc mocha",
+    "test:watch": "mocha -w --reporter dot"
+  },
+  "keywords": ["hapi", "plugin", "namespace", "routes"],
+  "author": "Aaron Leo Cooper <aaronleocooper@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^4.10.0",
+    "mocha": "^4.0.1",
+    "nyc": "^11.3.0",
+    "sinon": "^4.1.1"
+  }
+}

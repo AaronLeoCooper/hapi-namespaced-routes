@@ -1,0 +1,16 @@
+{
+  "require": [],
+  "extension": [
+    ".js"
+  ],
+  "reporter": [
+    "lcov",
+    "text"
+  ],
+  "sourceMap": true,
+  "instrument": true,
+  "exclude": [
+    "lib/**/*.spec.*",
+    "test/*"
+  ]
+}
