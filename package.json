@@ -7,7 +7,12 @@
     "test": "nyc mocha",
     "test:watch": "mocha -w --reporter dot"
   },
-  "keywords": ["hapi", "plugin", "namespace", "routes"],
+  "keywords": [
+    "hapi",
+    "plugin",
+    "namespace",
+    "routes"
+  ],
   "author": "Aaron Leo Cooper <aaronleocooper@gmail.com>",
   "license": "MIT",
   "devDependencies": {
