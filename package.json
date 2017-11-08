@@ -15,6 +15,10 @@
   ],
   "author": "Aaron Leo Cooper <aaronleocooper@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AaronLeoCooper/hapi-namespaced-routes"
+  },
   "devDependencies": {
     "chai": "^4.1.2",
     "eslint": "^4.10.0",
