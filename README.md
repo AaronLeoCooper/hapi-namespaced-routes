@@ -1,6 +1,7 @@
 # Hapi Namepsaced Routes
 
 [![npm version](https://badge.fury.io/js/hapi-namespaced-routes.svg)](https://badge.fury.io/js/hapi-namespaced-routes)
+[![Build Status](https://travis-ci.org/AaronLeoCooper/hapi-namespaced-routes.svg?branch=master)](https://travis-ci.org/AaronLeoCooper/hapi-namespaced-routes)
 
 A Hapi plugin to enable writing routes with a namespace (prefix) with
 a minimal API.
