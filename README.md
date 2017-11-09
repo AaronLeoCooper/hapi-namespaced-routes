@@ -2,6 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/hapi-namespaced-routes.svg)](https://badge.fury.io/js/hapi-namespaced-routes)
 [![Build Status](https://travis-ci.org/AaronLeoCooper/hapi-namespaced-routes.svg?branch=master)](https://travis-ci.org/AaronLeoCooper/hapi-namespaced-routes)
+[![Coverage Status](https://coveralls.io/repos/github/AaronLeoCooper/hapi-namespaced-routes/badge.svg?branch=master)](https://coveralls.io/github/AaronLeoCooper/hapi-namespaced-routes?branch=master)
 
 A Hapi plugin to enable writing routes with a namespace (prefix) with
 a minimal API.
